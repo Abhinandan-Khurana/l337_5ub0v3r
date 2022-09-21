@@ -14,6 +14,6 @@ WORKDIR /usr/src/app
 COPY requirements.txt ./
 RUN pip install --no-cache-dir -r requirements.txt
 
-COPY sub404.py .
+COPY l337_5ub0v3r.py .
 
-ENTRYPOINT [ "python3", "./sub404.py" ]
+ENTRYPOINT [ "python3", "./l337_5ub0v3r.py" ]
