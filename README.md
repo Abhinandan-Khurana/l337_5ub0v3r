@@ -15,7 +15,7 @@ l337_5ub0v3r uses subdomains list from text file and checks for url of <b>404 No
 - Fast (as it is asynchronous)
 - Uses two more tools to increase efficiency
 - Saves result in a text file for future reference
-- Umm thats it, nothing much !
+- Umm that's it, nothing much !
 ```
 ## How to use:
 <b>Note: Only works on Python3.7+</b>
